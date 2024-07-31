@@ -1,5 +1,4 @@
-# Forecasting-Late-Arrivals-Using-ANN
-Forecasting Late Arrivals: Delivery Estimation
+# Forecasting Late Arrivals: Delivery Estimation
 In today's competitive e-commerce landscape, ensuring timely delivery of products is crucial for maintaining customer satisfaction and loyalty. 
 However, navigating the complexities of the supply chain often leads to challenges such as transportation delays and inventory management issues, resulting in late deliveries and potential revenue losses.
 Our business objective is to develop a predictive model that accurately forecasts the risk of late deliveries, allowing us to proactively mitigate risks and optimize delivery performance.
